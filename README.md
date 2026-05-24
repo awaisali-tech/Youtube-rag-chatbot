@@ -1,5 +1,10 @@
 # YouTube RAG Chatbot
 
+🚀 **Live Demo:** [Click here to try it](https://youtube-rag-chatbot-y49r2gknnvmgmfvvqm5jao.streamlit.app)
+
+
+# YouTube RAG Chatbot
+
 Built this while learning LangChain from the CampusX playlist. The idea came from wanting to actually use what I was learning, so I built a chatbot that lets you chat with any YouTube video.
 
 You paste a URL, it fetches the transcript, and you can ask anything about the video. It only answers from the video content — if something isn't mentioned in the video, it tells you that instead of making something up.
