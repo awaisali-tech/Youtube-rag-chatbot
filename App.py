@@ -34,7 +34,7 @@ load_dotenv()
 # =============================================================================
 
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-LLM_MODEL = "llama-3.1-8b-instant"
+LLM_MODEL =  "openai/gpt-oss-20b"
 
 # all-MiniLM-L6-v2 has a 256-token max sequence length.
 # Keep chunks below that to avoid silent embedding truncation.
